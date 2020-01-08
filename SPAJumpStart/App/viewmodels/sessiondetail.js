@@ -1,4 +1,5 @@
-﻿define(['services/datacontext',
+﻿//to do 
+define(['services/datacontext',
         'durandal/plugins/router',
         'durandal/system',
         'durandal/app',
